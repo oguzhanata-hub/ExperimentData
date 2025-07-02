@@ -1,3 +1,4 @@
+#PURPOSE
 This repo contains data for the publicly available datasets listed below.
 Each subfolder also contains papers and readme files (if any) associated with that dataset.
 The sample R file gettingDataIntoR.R shows how the data can be read into R.
